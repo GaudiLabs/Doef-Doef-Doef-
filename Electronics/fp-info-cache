@@ -1,4 +1,4 @@
-21457138554077244
+21460552588553715
 Audio_Jacks
 Jack_3.5mm_Cliff_FCR1281_Horizontal
 
@@ -53732,6 +53732,13 @@ CardEdgeConnector_3MPak50
 50
 50
 GaudiLabsFootPrints
+CrystalHolder
+
+
+0
+0
+0
+GaudiLabsFootPrints
 D-Pak_TO252AA
 D-Pak, TO252AA, Diode
 D-Pak TO252AA Diode
@@ -55518,6 +55525,13 @@ LOGO
 0
 GaudiLabsLogos
 MicroscopeyScale
+
+
+0
+0
+0
+GaudiLabsLogos
+MirnadaEnergyCommunity
 
 
 0
